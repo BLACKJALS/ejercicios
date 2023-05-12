@@ -1,0 +1,15 @@
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\bin\Debug\net7.0\Ejercicios.exe
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\bin\Debug\net7.0\Ejercicios.deps.json
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\bin\Debug\net7.0\Ejercicios.runtimeconfig.json
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\bin\Debug\net7.0\Ejercicios.dll
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\bin\Debug\net7.0\Ejercicios.pdb
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfo.cs
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.dll
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\refint\Ejercicios.dll
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.pdb
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\Ejercicios.genruntimeconfig.cache
+C:\Users\AlejandroLeon\source\repos\Ejercicios\Ejercicios\obj\Debug\net7.0\ref\Ejercicios.dll
